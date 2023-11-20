@@ -1,7 +1,7 @@
 # ResourceManagementSystem_Backend
 A Backend Application for Resource Management System
 
-![Alt text]([https://img.freepik.com/free-vector/diwali-festival-patterned-background_53876-118874.jpg?w=740&t=st=1700511913~exp=1700512513~hmac=80171d792be7b26232e4e5634b6b45bd189228e3160fede7ce3f9ccad747292e](https://biz.prlog.org/universityguide/logo.png))
+![Alt text](https://cutm.ac.in/wp-content/uploads/Centurion_University_of_Technology_and_Management_Logo.webp)
 
 PURPOSE:-
 This Resource Management System  main objective is to provide a base for 
